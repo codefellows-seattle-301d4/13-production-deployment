@@ -1,4 +1,5 @@
 # Pair Assignment for Class 13 -  Production Deployment
+[![Build Status](https://travis-ci.org/codefellows-seattle-301d4/13-production-deployment.svg?branch=master)](https://travis-ci.org/codefellows-seattle-301d4/13-production-deployment)
 
 Ready to share what you've made with the world? Yes!
 
