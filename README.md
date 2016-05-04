@@ -1,4 +1,4 @@
-![CF](https://i.imgur.com/7v5ASc8.png)  13-production-deployment
+![CF](https://i.imgur.com/7v5ASc8.png)  Lab 13: Production Deployment
 =======
 [![Build Status](https://travis-ci.org/codefellows-seattle-301d4/13-production-deployment.svg?branch=master)](https://travis-ci.org/codefellows-seattle-301d4/13-production-deployment)
 
