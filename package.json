@@ -2,7 +2,7 @@
   "name": "mvc-blog",
   "version": "1.0.0",
   "description": "As we now complete our MVC conversation, we can refactor our app to use good MVC separation of concerns.",
-  "main": "submisssion/tatiana/server.js",
+  "main": "submission/tatiana/server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
