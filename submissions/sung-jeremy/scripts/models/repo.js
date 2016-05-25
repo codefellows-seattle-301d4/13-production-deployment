@@ -16,12 +16,6 @@
     //     repos.all = data;
     //   }
     // }).done(callback);
-    $.get('/github/users/codefellows-seattle-301d4/repos' +
-      '?per_page=15' +
-      '&sort=updated')
-      .done(function(data) {
-        repos.all = data;
-      }).done(callback);
   };
 
   repos.with = function(attr) {
