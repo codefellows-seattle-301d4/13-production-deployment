@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+node_modules
+env.sh
+=======
+env.sh
+node_modules
+>>>>>>> fd10330c5e55f8cb57bc243105f01b8ada9ee089
