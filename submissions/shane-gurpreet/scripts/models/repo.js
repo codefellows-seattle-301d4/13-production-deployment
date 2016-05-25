@@ -11,7 +11,7 @@
       '&sort=updated')
       .done(function(data){
         repos.all = data;
-      }).done(callback);
+      });
   };
 
   repos.with = function(attr) {
