@@ -1,1 +1,1 @@
-web: node /submissions/sung-jeremy/server.js
+web: node server.js
